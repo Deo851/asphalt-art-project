@@ -24,12 +24,13 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   - For my project I decided to code a tree because I wanted to keep it simple and I also appreciate trees because they help us in the world a whole lot and give a beautiful scneic background
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I am proud of how I made the tree painter class to code it to make the tree
+   - I am also proud of how much I have learned in these few weeks
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would love to try to improve my project by maybe decorating the tree by adding some apples in it
