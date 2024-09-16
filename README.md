@@ -18,7 +18,8 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![image of project!](/assets/images/image.png)
+
 
 ## Reflection
 
@@ -34,3 +35,5 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
    - I would love to try to improve my project by maybe decorating the tree by adding some apples in it
+
+[def]: /assets/images/image.png
